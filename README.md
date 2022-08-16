@@ -2,6 +2,8 @@
 
 Made Java program (with OpenJFX, GIT, Markdown, IntelliJ) that allows someone to play the Breakout game, in which a ball bounces around the window and destroys blocks as it hits them.
 
+<img src="BreakoutGameScreenshot.png" alt="drawing" width="200"/>
+
 ### Features
 - Brick breaks when intersecting around the vicinity of the top left of the ball.
 - Paddle can be controlled by arrow keys and mouse, and can stop at edges to not go off the screen.
